@@ -2,7 +2,7 @@
 SRAM based PUF generation on Arduino
 
 ## todo list
-* wifi versus bluetooth comparison  
+* ~~wifi versus bluetooth comparison  ~~
 * Arduino code on GitHub  
 * wiki pagina mbt presentatie (sram metingen)  
 * key generation in bootloader  
